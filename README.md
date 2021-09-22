@@ -30,14 +30,15 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" height="90em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"/>
   
   
 </div>
   
+ ## 
+  
  ![Snake animation](https://github.com/armandosneto/armandosneto/blob/output/github-contribution-grid-snake.svg)
 
   
-
+  <img align="right" height="90em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"/>
 
 
