@@ -35,8 +35,8 @@
  ![Snake animation](https://github.com/armandosneto/armandosneto/blob/output/github-contribution-grid-snake.svg)
   
 <p align="center">
- <img height="300"  align="center" src="https://wakatime.com/share/@d83abb46-e184-414f-94b6-778e034604fe/b81da571-f410-46d5-93f2-b0e10d8c9ae4.svg">
- <img height="300"  align="center" src="https://wakatime.com/share/@d83abb46-e184-414f-94b6-778e034604fe/419ef0e7-722a-422b-b6a2-7ec21c716dfd.svg">
+ <img height="300"  align="center" src="https://wakatime.com/share/@d83abb46-e184-414f-94b6-778e034604fe/def76b26-92a9-4ba5-ade5-16cb7bb2a20c.svg">
+ <img height="300"  align="center" src="https://wakatime.com/share/@d83abb46-e184-414f-94b6-778e034604fe/63891854-7970-4737-8f41-08bd4cc1c78d.svg">
 </p>
   
   <img align="right" height="90em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif"/>
